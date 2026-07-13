@@ -1,2 +1,2 @@
 # Event-registration-portal-
-Name , reg number,email ID 
+Name , register number,email ID 
