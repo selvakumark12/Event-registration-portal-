@@ -1,6 +1,8 @@
 # Event-registration-portal-
 Name , register number,email ID , event name 
+
 OBJECTIVES
+
 Front End
 
 1.HTML
