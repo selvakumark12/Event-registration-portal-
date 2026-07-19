@@ -1,4 +1,6 @@
 # Event-registration-portal-
+DETAILS 
+
 Name , register number,email ID , event name 
 
 OBJECTIVES
@@ -16,4 +18,4 @@ Back End
 
 Database
 
-MySQL
+1.MySQL
